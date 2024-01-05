@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mariane Ribeiro (Mari / Marinani)</h1>
+<h1 align="center">Hi 👋, I'm Mariane Ribeiro</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marinani&label=Profile%20views&color=0e75b6&style=flat" alt="marinani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marinani" alt="marinani" /></a> </p>
-
-
 
 - 🔭 I’m currently working on [Music Workshop](https://oficinademusica.curitiba.pr.gov.br/)
 
@@ -33,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinani&theme=gotham&show_icons=true&locale=en&layout=compact" alt="marinani" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinani&theme=gotham&show_icons=true)
+
