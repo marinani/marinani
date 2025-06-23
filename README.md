@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Music Workshop](https://oficinademusica.curitiba.pr.gov.br/)
 
-- 🌱 I’m currently learning **Python, Entity Framework, and Machine Learning**
+- 🌱 I’m currently learning **C#, Entity Framework, IA, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://marinani.github.io/](https://marinani.github.io/)
 
 - 📝 I regularly write articles on [https://marinani.github.io/](https://marinani.github.io/)
 
-- 📫 How to reach me **mari.ribeiro1994@gmail.com**
+- 📫 How to reach me **marinanideveloper@gmail.com**
 
 - 📄 Know about my experiences [https://marinani.github.io/](https://marinani.github.io/)
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/marinani.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marinani.tech" height="30" width="40" /></a>
 <a href="https://twitter.com/marinani.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marinani.tech" height="30" width="40" /></a>
-<a href="https://instagram.com/marinani.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marinani.tech" height="30" width="40" /></a>
+<a href="https://instagram.com/marinani.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marinani.developer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
