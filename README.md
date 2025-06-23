@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariane Ribeiro</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Music Workshop](https://oficinademusica.curitiba.pr.gov.br/)
+- 🔭 I’m currently working on Instituto de Cidades Inteligentes and Pw Métricas
 
 - 🌱 I’m currently learning **C#, Entity Framework, IA, and Machine Learning**
 
