@@ -1,30 +1,69 @@
-<h1 align="center">Hi 👋, I'm Mariane Ribeiro</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+# Olá, eu sou uma Desenvolvedora Full Stack .NET! 👋
 
-- 🔭 I’m currently working on Pw Métricas
+Com **mais de 10 anos de experiência** no mercado, sou especialista em desenvolvimento de sistemas robustos e escaláveis, com foco em arquitetura **.NET Core** e interfaces modernas com **Angular**.
 
-- 🌱 I’m currently learning **C#, Entity Framework, IA, and Machine Learning**
+Atualmente, dedico-me a criar soluções para Cidades Inteligentes e sistemas corporativos complexos.
 
-- 👨‍💻 All of my projects are available at [https://marinani.github.io/](https://marinani.github.io/)
+---
 
-- 📝 I regularly write articles on [https://marinani.github.io/](https://marinani.github.io/)
+### 🚀 Stack Tecnológico
 
-- 📫 How to reach me **marinanideveloper@gmail.com**
+**Back-end & Cloud**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- 📄 Know about my experiences [https://marinani.github.io/](https://marinani.github.io/)
+**Front-end**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- ⚡ Fun fact **I am crazy people**
+**Banco de Dados & DevOps**
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/marinani.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marinani.tech" height="30" width="40" /></a>
-<a href="https://twitter.com/marinani.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marinani.tech" height="30" width="40" /></a>
-<a href="https://instagram.com/marinani.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marinani.developer" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> </p>
+### 💼 Experiência Profissional
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinani&theme=gotham&show_icons=true&locale=en&layout=compact" alt="marinani" /></p>
+Minha jornada inclui atuações em grandes players de tecnologia e projetos desafiadores:
 
+- **Pw Midia** *(Atual)*: Desenvolvimento de sistemas web focados visão de leads e vendas para os clientes e desenvolvimento de um sistema de Bot com integração full time com Whatsapp Business (.NET Core, SQL Server, Azure Devops).
+- **ICI – Smart Cities Institute** *(Atual)*: Desenvolvimento de sistemas web focados em gestão pública inteligente (.NET Core, SQL Server, Jenkins).
+- **VEXPRO BUSINESS IT**: Desenvolvimento de APIs e integração contínua (Azure DevOps).
+- **DBM Contact Center & Editora Positivo**: Atuação Full-stack em sistemas de alta demanda.
+- **Stefanini IT Solutions**: Onde iniciei minha base sólida em ecossistema Microsoft.
 
+---
+
+### 💻 Projetos em Destaque
+
+Alguns dos sistemas e contextos nos quais atuei:
+
+| Projeto / Contexto | Tecnologias Principais |
+| :--- | :--- |
+| **PW Mídia** | Desenvolvimento de sistema focado em gestão de mídia. |
+| **PW Métricas** | Soluções para análise de métricas e dados. |
+| **Smart Cities (ICI)** | Sistemas para gestão urbana, utilizando arquitetura de microsserviços e CI/CD. |
+
+---
+
+### 📊 GitHub Stats
+
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marinani&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marinani&layout=compact&theme=dracula)
+
+---
+
+<div align="center">
+  <a href="mailto:marinanideveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Entre%20em%20Contato-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/marinani-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
